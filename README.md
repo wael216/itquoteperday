@@ -4,7 +4,7 @@ This website displays a new quote every day on a black-grey-white color scheme. 
 
 ## Usage
 
-Simply visit the website to see the quote of the day: [https://yourusername.github.io/quote-of-the-day](https://yourusername.github.io/quote-of-the-day)
+Simply visit the website to see the quote of the day: [https://wael216.github.io/itquoteperday/](https://wael216.github.io/itquoteperday/)
 
 ## Credits
 
