@@ -22,8 +22,9 @@ const quotes = [
 },
 {
   quote: "I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex.",
-  author: "Kurt Vonn},
-  {
+  author: "Kurt Vonn"
+},
+{
 quote: "The most powerful computer in the world is the one in our heads.",
 author: "Dr. Michio Kaku"
 },
