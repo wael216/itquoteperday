@@ -197,4 +197,4 @@ const quote = quotes[index];
 
 // Display the quote on the page
 document.getElementById("quote").innerHTML = quote.quote;
-document.getElementById("author").innerHTML = "By " + quote.author;
+document.getElementById("author").innerHTML = "IT Quote of the day by " + quote.author;
